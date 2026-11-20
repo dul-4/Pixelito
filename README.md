@@ -27,7 +27,7 @@ Download or clone the repo and open `index.html` in your browser.
 
 ## Run in web
 
-
+https://dul-4.github.io/Pixelito/
 
 ## Files
 
