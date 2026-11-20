@@ -16,16 +16,18 @@ Made with plain HTML, CSS and JavaScript. No libraries, no build step.
 
 ## Examples
 
-![Example drawing 1](images/example-1.png)
-![Example drawing 2](images/example-2.png)
+<img width="1916" height="867" alt="Captura de pantalla 2026-11-19 231650" src="https://github.com/user-attachments/assets/8f789135-bff2-46a4-8d4c-171bad6b4147" />
+
+<img width="1917" height="870" alt="Captura de pantalla 2026-11-19 231740" src="https://github.com/user-attachments/assets/526ec543-98bd-49f3-ae15-4246f379c9f4" />
+
 
 ## Run it locally
 
 Download or clone the repo and open `index.html` in your browser.
 
-```
-git clone https://github.com/YOUR-USERNAME/pixelito.git
-```
+## Run in web
+
+
 
 ## Files
 
@@ -41,4 +43,8 @@ git clone https://github.com/YOUR-USERNAME/pixelito.git
 
 ## License
 
-[YOUR LICENSE] © [YOUR NAME]
+MIT
+
+## Creator
+
+Me
