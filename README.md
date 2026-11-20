@@ -4,7 +4,8 @@ A 16x16 pixel art editor for the browser. Pick a color, draw on the grid, and do
 
 Made with plain HTML, CSS and JavaScript. No libraries, no build step.
 
-![pixelito screenshot](images/screenshot.png)
+<img width="1917" height="870" alt="Captura de pantalla 2026-11-19 231536" src="https://github.com/user-attachments/assets/b818e802-7dd5-4432-9d54-d89c0005b2ad" />
+
 
 ## How to use it
 
