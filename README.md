@@ -41,6 +41,15 @@ https://dul-4.github.io/Pixelito/
 - Save the drawing in the browser so it doesn't disappear
 - Bigger grids (32x32)
 
+## AI use
+
+I used Google's Gemini while making this project, for three things:
+
+- **Checking my code** to see if something was wrong or could be written better.
+- **Fixing errors** when the page or the JavaScript didn't work.
+- **Learning JavaScript**: I asked it to explain how things like events, the grid and the PNG download work, so I could understand the code instead of just copying it.
+
+
 ## License
 
 MIT
