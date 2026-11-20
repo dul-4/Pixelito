@@ -43,7 +43,7 @@ https://dul-4.github.io/Pixelito/
 
 ## AI use
 
-I used Google's Gemini while making this project, for three things:
+I used Gemini AI while making this project, for three things:
 
 - **Checking my code** to see if something was wrong or could be written better.
 - **Fixing errors** when the page or the JavaScript didn't work.
